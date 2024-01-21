@@ -6,52 +6,51 @@ NearBy is an Android application that aims to promote social distancing during t
 
 ## Key Features:
 
-#### Distance Monitoring:
+#### 1- Distance Monitoring:
 
 Utilizes GPS or Bluetooth to monitor the distance between the user's device and nearby devices.
-#### Real-Time Alerts:
+#### 2- Real-Time Alerts:
 
 Sends instant alerts when users are within an unsafe distance from others.
-#### Customizable Warning Settings:
+#### 3- Customizable Warning Settings:
 
 Allows users to customize the distance threshold for alerts.
 Option to set alert preferences such as vibration or sound.
-#### Location History:
+#### 4- Location History:
 
 Tracks and logs instances of close contact to assist with contact tracing efforts.
-#### Privacy Protection:
+#### 5- Privacy Protection:
 
 Prioritizes user privacy by anonymizing data and not storing personal information.
-#### User-Friendly Interface:
+#### 6- User-Friendly Interface:
 
 Intuitive design for easy navigation and a seamless user experience.
 
 ## Getting Started:
 
-##### Clone the Repository:
+#### Clone the Repository:
 
-Clone this repository to your local machine using:
-bash
-Copy code
-git clone https://github.com/YourOrganization/SafeDistancer.git
-##### Configure Permissions:
+Clone this repository to your local machine using bash:
+
+git clone https://github.com/aghiad77/NearBy.git
+#### Configure Permissions:
 
 Ensure the app has necessary permissions for GPS and Bluetooth access.
-##### Build and Run:
+#### Build and Run:
 
 1- Open the project in Android Studio.
 2- Build the project and run the application on your Android device.
 ## Usage:
 
-##### Enable GPS/Bluetooth:
+#### Enable GPS/Bluetooth:
 
 Make sure GPS and Bluetooth are enabled on your device.
-##### Open the App:
+#### Open the App:
 
 Launch the SafeDistancer app on your Android device.
-##### Adjust Settings:
+#### Adjust Settings:
 
 Customize distance thresholds and alert preferences as needed.
-##### Receive Alerts:
+#### Receive Alerts:
 
 You will receive instant alerts if you come within the specified distance of another user.
