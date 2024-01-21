@@ -38,7 +38,8 @@ git clone https://github.com/aghiad77/NearBy.git
 Ensure the app has necessary permissions for GPS and Bluetooth access.
 #### Build and Run:
 
-1- Open the project in Android Studio.
+1- Open the project in Android Studio. 
+
 2- Build the project and run the application on your Android device.
 ## Usage:
 
